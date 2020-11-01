@@ -1,0 +1,14 @@
+
+Log Entry : 11:10:59 PM Thursday, October 29, 2020
+  :
+  :Customer should be major than 18.
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 37
+
+-------------------------------
+
+Log Entry : 11:56:43 PM Thursday, October 29, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------

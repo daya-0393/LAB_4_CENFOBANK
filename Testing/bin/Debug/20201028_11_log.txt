@@ -1,0 +1,21 @@
+
+Log Entry : 11:11:56 AM Wednesday, October 28, 2020
+  :
+  :Could not find stored procedure 'CRE_ACCOUNT_MOV_PR'.
+
+
+-------------------------------
+
+Log Entry : 11:16:54 AM Wednesday, October 28, 2020
+  :
+  :Could not find stored procedure 'CRE_ACCOUNT_MOV_PR'.
+
+
+-------------------------------
+
+Log Entry : 11:24:30 AM Wednesday, October 28, 2020
+  :
+  :Could not find stored procedure 'CRE_ACCOUNT_MOV_PR'.
+
+
+-------------------------------

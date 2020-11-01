@@ -1,0 +1,14 @@
+
+Log Entry : 2:04:48 AM Friday, October 30, 2020
+  :
+  :Message not found!
+   at CoreAPI.CustomerManager.RetrieveById(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 60
+
+-------------------------------
+
+Log Entry : 2:11:05 AM Friday, October 30, 2020
+  :
+  :Message not found!
+   at CoreAPI.CustomerManager.RetrieveById(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 60
+
+-------------------------------

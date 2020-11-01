@@ -1,0 +1,7 @@
+
+Log Entry : 1:54:21 PM Saturday, October 24, 2020
+  :
+  :Procedure or function 'CRE_ACCOUNT_PR' expects parameter '@P_TYPE', which was not supplied.
+
+
+-------------------------------

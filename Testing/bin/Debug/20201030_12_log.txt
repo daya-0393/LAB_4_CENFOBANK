@@ -1,0 +1,35 @@
+
+Log Entry : 12:00:05 AM Friday, October 30, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------
+
+Log Entry : 12:04:04 AM Friday, October 30, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------
+
+Log Entry : 12:07:22 AM Friday, October 30, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------
+
+Log Entry : 12:11:50 AM Friday, October 30, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------
+
+Log Entry : 12:13:26 AM Friday, October 30, 2020
+  :
+  :Customer already exists in the database
+   at CoreAPI.CustomerManager.Create(Customer customer) in C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\CoreAPI\CustomerManager.cs:line 31
+
+-------------------------------

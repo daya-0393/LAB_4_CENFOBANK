@@ -1,0 +1,75 @@
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\bin\Debug\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa acceso datos\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\bin\Debug\Entities-POJO.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\bin\Debug\Entities-POJO.pdb
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\Developer\Documents\repos\CENFO_IPS201901\cenfo_proyecto_2_2019_01\Capa API\Components\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\Entities-POJO.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\Entities-POJO.pdb
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\DataAcess.dll.config
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Buffers.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Memory.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Text.Json.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.ValueTuple.dll
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\Entities-POJO.dll.config
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Buffers.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Memory.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Text.Json.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nanis\Desktop\cenfo_proyecto_2_2019\Capa API\Components\DataAcess\bin\Debug\System.ValueTuple.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\DataAcess.dll.config
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\Entities-POJO.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Buffers.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Memory.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Text.Json.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.ValueTuple.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\Entities-POJO.pdb
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\Entities-POJO.dll.config
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Buffers.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Memory.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Text.Json.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\bin\Debug\System.ValueTuple.xml
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\nanis\Desktop\Components\proyecto\DataAcess\obj\Debug\DataAcess.pdb

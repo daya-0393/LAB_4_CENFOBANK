@@ -1,0 +1,28 @@
+
+Log Entry : 12:10:59 AM Wednesday, October 28, 2020
+  :
+  :Could not find stored procedure 'CRE_ACCOUNT_MOV_PR'.
+
+
+-------------------------------
+
+Log Entry : 12:01:50 PM Wednesday, October 28, 2020
+  :
+  :Cannot open server 'sql-dev-srv' requested by the login. Client with IP address '158.174.23.47' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+
+
+-------------------------------
+
+Log Entry : 12:02:06 PM Wednesday, October 28, 2020
+  :
+  :Cannot open server 'sql-dev-srv' requested by the login. Client with IP address '158.174.23.47' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+
+
+-------------------------------
+
+Log Entry : 12:03:29 PM Wednesday, October 28, 2020
+  :
+  :Cannot open server 'sql-dev-srv' requested by the login. Client with IP address '158.174.23.47' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+
+
+-------------------------------
